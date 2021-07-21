@@ -1,0 +1,31 @@
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\bin\Debug\SimonDice.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\bin\Debug\SimonDice.exe
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\bin\Debug\SimonDice.pdb
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.exe
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.pdb
+c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.csprojResolveAssemblyReference.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\bin\Debug\SimonDice.exe.config
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\bin\Debug\SimonDice.exe
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\bin\Debug\SimonDice.pdb
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.csprojAssemblyReference.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.Form1.resources
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.exe
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice\obj\Debug\SimonDice.pdb
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\bin\Debug\SimonDice.exe.config
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\bin\Debug\SimonDice.exe
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\bin\Debug\SimonDice.pdb
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.csprojAssemblyReference.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.Properties.Resources.resources
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.csproj.GenerateResource.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.exe
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.pdb
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.FormJuego.resources
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.FormConfiguracion.resources
+C:\Users\javie\Documents\UJA\Multimedia\SimonDice2\obj\Debug\SimonDice.MenuPrincipal.resources
